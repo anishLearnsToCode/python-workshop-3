@@ -38,7 +38,7 @@ Get to know more about your instructor [here](https://www.linkedin.com/in/anishs
 - [Git](https://git-scm.com/downloads)
 - [Python 3](https://www.python.org/downloads/)
 
-## [Day 1](https://github.com/anishLearnsToCode/python-workshop-2/tree/master/day-1)
+## [Day 1](https://github.com/anishLearnsToCode/python-workshop-3/tree/master/day-1)
 ### Topics Covered
 
 ### Further Reading
@@ -66,7 +66,7 @@ Get to know more about your instructor [here](https://www.linkedin.com/in/anishs
 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-split-and-join.py) |
 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/whats-your-name.py) |
 
-## [Day 2](https://github.com/anishLearnsToCode/python-workshop-2/tree/master/day-2)
+## [Day 2](https://github.com/anishLearnsToCode/python-workshop-3/tree/master/day-2)
 
 ### Topics Covered
 
