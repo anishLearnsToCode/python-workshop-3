@@ -40,6 +40,26 @@ Get to know more about your instructor [here](https://www.linkedin.com/in/anishs
 
 ## [Day 1](https://github.com/anishLearnsToCode/python-workshop-3/tree/master/day-1)
 ### Topics Covered
+- [Hello World!](day-1/hello-world.py)
+- [Input](day-1/input.py)
+- [Data Types](day-1/variables.py)
+- [Integer Input](day-1/int-input.py)
+- [Comments & Variables](day-1/comments.py)
+- [Arithmetic Expressions](day-1/arithmetic-operations.py)
+- [logical Expressions](day-1/logical-operators.py)
+- [If-Else Statements](day-1/if-else-conditions.py)
+- [Finding of Number is even or odd](day-1/even-odd.py)
+- [Largest of 3 Numbers](day-1/largest-3-numbers.py)
+- [While Loop](day-1/while-loop.py)
+- [Range](day-1/range-type.py)
+- [For Loops](day-1/for-loops.py)
+- [Infinite Loop](day-1/infinite-loop.py)
+- [Loop Control Statements](day-1/loop-control-statements.py)
+- [Nested Loops](day-1/nested-loop.py)
+- [Sum of N Natural Numbers](day-1/sum-of-n-numbers.py)
+- [Sum of squares of first N Natural Numbers](day-1/sum-of-squares.py)
+- [Factorial](day-1/factorial.py)
+- [Lists](day-1/lists.py)
 
 ### Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
