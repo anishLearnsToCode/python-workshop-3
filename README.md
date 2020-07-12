@@ -89,6 +89,17 @@ Get to know more about your instructor [here](https://www.linkedin.com/in/anishs
 ## [Day 2](https://github.com/anishLearnsToCode/python-workshop-3/tree/master/day-2)
 
 ### Topics Covered
+- [Ternary Statement](day-2/ternary-statement.py)
+- [List Comprehension](day-2/generator-function.py)
+- [Functions](day-2/functions.py)
+- [Inbuilt Functions](day-2/inbuilt-functions.py)
+- [String Functions](day-2/string-functions.py)
+- [List Input](day-2/list-input.py)
+- [ASCII & UNICODE](day-2/ascii.py)
+- [Tuples](day-2/tuples.py)
+- [Dictionary](day-2/dictionary.py)
+- [Complex Key Value pairs in Dictionary](day-2/dictionary-multiple.py)
+- [Packages](day-2/packages.py)
 
 ### Further Reading
 - [Math Module](https://docs.python.org/3/library/math.html)
