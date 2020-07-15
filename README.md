@@ -1,8 +1,6 @@
 # Python 🐍 Basics Workshop - What After College
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/python-workshop-3)
-
-![HitCount](http://hits.dwyl.com/anishLearnsToCode/python-workshop-3.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
 
 Solutions to all sample problems on HackerRank under the 
